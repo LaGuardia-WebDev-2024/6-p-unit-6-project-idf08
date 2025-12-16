@@ -13,13 +13,16 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
  
  
- ellipse(200,120,100,200)
- 
- 
-  fill(899, 100, 30)
-ellipse(200,120,390,390)
-  
+  //face
 
+fill(899, 100, 30) 
+ellipse(200,120,390,390)
+fill(150, 75, 0)
+ ellipse(200,120,270,250)
+
+ell
+fill( 240, 189, 139)
+ellipse(200,120,140,200)
 
 }
 
@@ -59,3 +62,6 @@ void keyPressed(){
   }
 }
 
+fill(150, 75, 0)
+
+fill(899, 100, 30) 
