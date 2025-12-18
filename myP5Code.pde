@@ -16,14 +16,33 @@ void draw(){
   //face
 
 fill(899, 100, 30) 
+ellipse(200,330,330,330)
+
+line()
+
+
+
+fill(899, 100, 30) 
 ellipse(200,120,390,390)
 fill(150, 75, 0)
  ellipse(200,120,270,250)
 
-ell
+fill(150, 75, 0)
+ ellipse(200,120,270,250)
+
+
 fill( 240, 189, 139)
 ellipse(200,120,140,200)
 
+
+
+fill(255, 255, 255)
+ellipse(150,120,100,100)
+ellipse(250,120,100,100)
+
+fill(0,0,0)
+ellipse(150,120,10,10)
+ellipse(250,120,10,10)
 }
 
 //🟡Extra FUN Features Ms. Hall Added
