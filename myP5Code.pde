@@ -13,11 +13,13 @@ void draw(){
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
  
  
-  //face
+  //body
 
 fill(899, 100, 30) 
 ellipse(200,330,330,330)
-ellipse(46,361,60,60)
+
+
+ellipse(46,361,60,60) ;//gloves fingers
 ellipse(357,361,60,60)
 rect(370,375,10,20)
 rect(350,375,10,20)
@@ -30,7 +32,7 @@ arc(150,100,100,100)
 
  
 fill(899, 100, 30) 
-ellipse(200,120,390,390)
+ellipse(200,120,390,390) ;//face
 fill(150, 75, 0)
  ellipse(200,120,270,250)
 fill(150, 75, 0)
